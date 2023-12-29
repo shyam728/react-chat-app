@@ -1,4 +1,5 @@
-Certainly! Below is an example of how you might structure your React chat app project along with a basic README file for your GitHub repository:
+
+<img width="960" alt="chat" src="https://github.com/shyam728/react-chat-app/assets/116745835/beefbcb6-25e5-4cb3-9544-d6ad21733c21">
 
 ### Project Structure
 
@@ -23,7 +24,7 @@ my-chat-app/
 
 ### README.md
 
-```markdown
+
 # My React Chat App
 
 This is a simple chat application built with React.
